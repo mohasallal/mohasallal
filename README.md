@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on creating my own team of web development and other stuff
 - 📫 How to reach me? you can find my insta and facebook links in my profile
-- ⚡ Fun fact: IDK!
+- ⚡ Fun fact about me: my LIFE!
 
 <!---
 mohasallal/mohasallal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
