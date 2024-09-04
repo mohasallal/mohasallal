@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @mohasallal
-- 👀 I’m interested in web development and java also im trying to learn athoer languages
-- 🌱 I’m currently learning .Net Core (C#)
-- 💞️ I’m looking to create my own team of web development and other stuff
-- 📫 How to reach me? you can find my insta and facebook links in my profile
-- ⚡ Fun fact about me: my LIFE!
+👋 Hi, I'm Mohammad Mustafa Alsallal (@mohasallal)
+👨‍💻 I'm a full-stack developer specializing in Next.js (React) with extensive experience in TypeScript, JavaScript, Tailwind CSS, HTML/CSS, Framer Motion, and MongoDB.
 
-<!---
-mohasallal/mohasallal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 I'm an active member of IEEE and serve as the iTeam Web Leader and AIESEC member, where I contribute to various impactful projects.
+
+🚀 My repositories showcase the diverse projects I've worked on—feel free to explore!
+
+🌱 I'm currently expanding my skills in .NET Core (C#).
+
+💡 I'm passionate about creating innovative web solutions and am always looking to collaborate with like-minded individuals.
+
+📫 Want to connect? Check out my portfolio for more information.
+
+⚡ Fun fact: Life is my adventure, and I'm just getting started!
