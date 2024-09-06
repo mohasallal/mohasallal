@@ -1,7 +1,7 @@
-👋 Hi, I'm Mohammad Mustafa Alsallal (@mohasallal)
+#👋 Hi, I'm Mohammad Mustafa Alsallal (@mohasallal)
 👨‍💻 I'm a full-stack developer specializing in Next.js (React) with extensive experience in TypeScript, JavaScript, Tailwind CSS, HTML/CSS, Framer Motion, and MongoDB.
 
-💼 I'm an active member of IEEE and serve as the iTeam Web Leader and AIESEC member, where I contribute to various impactful projects.
+💼 I'm an active member of IEEE and serve as Web Leader and R&D in iTeam ,and AIESEC member, where I contribute to various impactful projects.
 
 🚀 My repositories showcase the diverse projects I've worked on—feel free to explore!
 
