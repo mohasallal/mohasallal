@@ -1,14 +1,33 @@
-#👋 Hi, I'm Mohammad Mustafa Alsallal (@mohasallal)
-👨‍💻 I'm a full-stack developer specializing in Next.js (React) with extensive experience in TypeScript, JavaScript, Tailwind CSS, HTML/CSS, Framer Motion, and MongoDB.
+# 👋 Hi, I'm Mohammad Alsallal (@mohasallal)
 
-💼 I'm an active member of IEEE and serve as Web Leader and R&D in iTeam ,and AIESEC member, where I contribute to various impactful projects.
+### 👨‍💻 Full-Stack Developer | Next.js | TypeScript | Tailwind CSS
 
-🚀 My repositories showcase the diverse projects I've worked on—feel free to explore!
+I'm a passionate full-stack developer specializing in **Next.js (React)** with extensive experience in **TypeScript**, **JavaScript**, **Tailwind CSS**, **HTML/CSS**, **Framer Motion**, and **MongoDB**. I love building innovative and scalable web solutions, leveraging modern web technologies.
 
-🌱 I'm currently expanding my skills in .NET Core (C#).
+### 💼 Professional Involvement
+- **Vice Chair** of the IEEE Computer Society
+- **CEO** of iTeam
+- Former **Web Leader & R&D** at iTeam
+- **AIESEC Member** – contributing to impactful global projects
 
-💡 I'm passionate about creating innovative web solutions and am always looking to collaborate with like-minded individuals.
+### 🚀 My Expertise
+- **Frontend Development**: React.js, Next.js, HTML/CSS, Tailwind CSS, Framer Motion
+- **Backend Development**: TypeScript, Node.js, API development
+- **Databases**: MongoDB, Prisma
+- **Version Control**: Git, GitHub
+- Currently expanding my knowledge in **.NET Core (C#)**
 
-📫 Want to connect? Check out my portfolio for more information.
+### 🌱 What I'm Learning
+I'm currently diving deeper into **.NET Core (C#)** to broaden my skillset in backend development and cloud-based solutions.
 
-⚡ Fun fact: Life is my adventure, and I'm just getting started!
+### 💡 Let's Collaborate!
+I’m always excited to collaborate with like-minded individuals on innovative web projects. My [GitHub repositories](https://github.com/mohasallal) showcase the diverse projects I’ve worked on—feel free to explore!
+
+### 📫 Connect with Me
+Visit my [portfolio](https://my-portfolio-nine-ruddy-81.vercel.app/) for more information or to get in touch. Let’s create something amazing together!
+
+---
+
+### ⚡ Fun Fact
+**Life is my adventure**, and I’m just getting started! There’s always something new to learn and build in the world of tech.
+
