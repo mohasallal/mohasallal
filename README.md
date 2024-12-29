@@ -7,6 +7,8 @@ I'm a passionate full-stack developer specializing in **Next.js (React)** with e
 ### 💼 Professional Involvement
 - **Vice Chair** of the IEEE Computer Society
 - **CEO** of iTeam
+- **PR Officer** of ACM
+- **PR** at TEDxDabouq
 - Former **Web Leader & R&D** at iTeam
 - **AIESEC Member** – contributing to impactful global projects
 
@@ -18,7 +20,7 @@ I'm a passionate full-stack developer specializing in **Next.js (React)** with e
 - Currently expanding my knowledge in **.NET Core (C#)**
 
 ### 🌱 What I'm Learning
-I'm currently diving deeper into **.NET Core (C#)** to broaden my skillset in backend development and cloud-based solutions.
+I'm currently diving deeper into **NestJS** to broaden my skillset in backend development and cloud-based solutions.
 
 ### 💡 Let's Collaborate!
 I’m always excited to collaborate with like-minded individuals on innovative web projects. My [GitHub repositories](https://github.com/mohasallal) showcase the diverse projects I’ve worked on—feel free to explore!
