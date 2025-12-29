@@ -6,6 +6,7 @@ I'm a passionate leader & full-stack developer specializing in **NEXTJS** and **
 
 ### 💼 Professional Involvement
 - **Web Development Manager** of the IT Department at Badir wa Sahim
+- **Web Section Co-Lead** at TEDx PHU
 - **Consultant** at iTeam
 - Former **Team Lead, Web Section Leader & R&D** at iTeam
 - Former **Vice Chair** of the IEEE Computer Society
