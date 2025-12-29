@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Mohammad Alsallal (@mohasallal)
+# 👋🏻 Hi, I'm Mohammad Alsallal (@mohasallal)
 
-### 👨‍💻 Full-Stack Developer | ExpressJS | Next.js | TypeScript | Tailwind CSS | Nest.js
+### 🧑🏻‍💻 Full-Stack Developer | ExpressJS | Next.js | TypeScript | Tailwind CSS | Nest.js
 
 I'm a passionate leader & full-stack developer specializing in **NEXTJS** and **ExpressJS** with extensive experience in **TypeScript**, **JavaScript**, **Tailwind CSS**, **HTML/CSS**, **PrismaORM**, **DrizzleORM**, **Neon.Tech**, ,**Motion**, and **MongoDB**. I love building innovative and scalable web solutions, leveraging modern web technologies.
 
@@ -14,7 +14,7 @@ I'm a passionate leader & full-stack developer specializing in **NEXTJS** and **
 - Former **PR Officer** of ACM
 - Former **AIESEC Member** – contributing to impactful global projects
 
-### 🚀 My Expertise
+### 🧪 My Expertise
 - **Frontend Development**: React.js, Next.js, HTML/CSS, Tailwind CSS, Motion, Shadcn
 - **Backend Development**: TypeScript, Node.js, Express, API development
 - **Databases**: MongoDB, Prisma, Drizzle, Neon.Tech
