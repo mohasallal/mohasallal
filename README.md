@@ -20,3 +20,8 @@ I'm a passionate leader & full-stack developer specializing in **NEXTJS** and **
 - **Databases**: MongoDB, Prisma, Drizzle, Neon.Tech
 - **Version Control**: Git, GitHub
 - Currently expanding my knowledge in **AWS and Project Management**
+
+
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=mohasallal&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</div>
