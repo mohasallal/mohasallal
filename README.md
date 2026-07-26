@@ -64,8 +64,8 @@ These experiences strengthened my skills in technical leadership, project coordi
 ## GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohasallal&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Mohammad's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohasallal&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Mohammad's most used languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohasallal&theme=github_dark" alt="Mohammad's GitHub statistics" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohasallal&theme=github_dark" alt="Mohammad's most used languages" />
 </div>
 
 ## What I Value
