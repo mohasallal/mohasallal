@@ -1,89 +1,77 @@
+<h1 align="center">Mohammad Alsallal</h1>
+
+<p align="center">
+  Full-Stack Developer | TypeScript | Backend Systems | AI Application Infrastructure
+</p>
+
+<p align="center">
+  <a href="https://github.com/mohasallal">
+    <img src="https://img.shields.io/badge/GitHub-mohasallal-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-alsallal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Alsallal-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
+  </a>
+  <a href="https://my-portfolio-nine-ruddy-81.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel" alt="Portfolio website" />
+  </a>
+</p>
+
+## About Me
+
+I am a full-stack developer and Computer Science student based in Amman, Jordan. I build scalable web applications and backend systems using TypeScript, Next.js, Express.js, and NestJS.
+
+My work goes beyond implementing features. I enjoy designing APIs, structuring maintainable systems, improving performance and reliability, and taking products from an early idea to a production-ready solution.
+
+I am currently expanding my knowledge of production AI systems, including LLM integrations, retrieval-augmented generation, agentic workflows, multi-agent systems, and the infrastructure required to make them reliable and accessible to software teams.
+
+## Current Focus
+
+- Building production-grade web platforms and backend APIs
+- Designing scalable, maintainable, and observable software architectures
+- Exploring managed AI execution, model orchestration, RAG, and agent systems
+- Deepening my knowledge of AWS, distributed systems, and project management
+- Combining engineering, product thinking, and leadership to solve real problems
+
+## Technical Expertise
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS, Shadcn UI, Motion, HTML, CSS |
+| Backend | Node.js, Express.js, NestJS, REST APIs, WebSockets, JWT authentication |
+| Databases and Data | PostgreSQL, Neon, MongoDB, Drizzle ORM, Prisma ORM, Redis |
+| Infrastructure | Docker, Linux, Cloudflare, R2, GitHub Actions, PM2, CI/CD |
+| Mobile | React Native, Expo, NativeWind |
+| Engineering | API design, modular architecture, caching, queues, horizontal scaling, system reliability |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,nestjs,tailwind,postgres,mongodb,redis,docker,cloudflare,git,github,linux" alt="Technology stack" />
+</p>
+
+## Leadership and Community Experience
+
+- Former Co-Founder and Business Development Manager at MentoraJo
+- Former Web Development Manager at Badir wa Sahim
+- Former Web Section Co-Lead at TEDx PHU
+- Consultant at iTeam
+- Former Team Lead, Web Section Leader, and R&D Lead at iTeam
+- Former Vice Chair of the IEEE Computer Society
+- Former PR Officer and Backend Developer at TEDxDabouq
+- Former PR Officer at ACM
+- Former AIESEC member
+
+These experiences strengthened my skills in technical leadership, project coordination, business development, teamwork, and building solutions with real community impact.
+
+## GitHub Activity
+
 <div align="center">
-
-<img src="./assets/ascii.svg" width="620" alt="ASCII portrait of Mohammad Alsallal"/>
-
-<img src="./assets/stats.svg" width="620" alt="Mohammad's GitHub activity in the last year"/>
-
-[portfolio](https://my-portfolio-nine-ruddy-81.vercel.app/) &nbsp;·&nbsp;
-[linkedin](https://www.linkedin.com/in/mohammad-alsallal/) &nbsp;·&nbsp;
-[github](https://github.com/mohasallal)
-
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohasallal&theme=github_dark" alt="Mohammad's GitHub statistics" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohasallal&theme=github_dark" alt="Mohammad's most used languages" />
 </div>
 
-<img src="./assets/hd-about.svg" width="620" alt="about"/>
+## What I Value
 
-> Full-stack developer and Computer Science student based in Amman, Jordan.<br>
-> I turn complex product requirements into maintainable systems.
+I care about clean architecture, thoughtful user experiences, reliable systems, and technology that solves meaningful problems. I am always interested in ambitious projects, strong engineering teams, and opportunities to learn, contribute, and build.
 
-I build TypeScript applications from interface to infrastructure: responsive<br>
-frontends, backend APIs, authentication, data models, background processing,<br>
-deployment pipelines, and the operational details that keep software reliable.
+## Connect
 
-Right now, I am exploring production AI systems and how developers can use<br>
-LLMs, retrieval, tools, and agent workflows without building every underlying<br>
-piece of AI infrastructure themselves.
-
-<img src="./assets/hd-stack.svg" width="620" alt="stack"/>
-
-<samp>typescript &nbsp; next.js &nbsp; react &nbsp; node.js &nbsp; express &nbsp; nestjs &nbsp; tailwind<br>
-postgresql &nbsp; drizzle &nbsp; mongodb &nbsp; redis &nbsp; docker &nbsp; cloudflare &nbsp; linux</samp>
-
-<img src="./assets/hd-projects.svg" width="620" alt="projects"/>
-
-**Managed AI Execution Platform** &nbsp;·&nbsp; <samp>typescript, llms, distributed systems</samp><br>
-An outcome-first execution layer that chooses models, retrieval, tools, and<br>
-agent workflows inside developer-defined constraints.
-
-**News and Content Platform** &nbsp;·&nbsp; <samp>next.js, express, drizzle, postgresql</samp><br>
-A production publishing system with structured content, secure sessions,<br>
-role-based administration, media handling, and automated deployment.
-
-**Distributed Application Platform** &nbsp;·&nbsp; <samp>nestjs, grpc, redis, docker</samp><br>
-An IAM, gateway, authorization, workspace, audit, and notification architecture<br>
-using asymmetric JWTs, service communication, caching, and event-driven flows.
-
-**Real-Time Event Registration** &nbsp;·&nbsp; <samp>typescript, socket.io, postgresql</samp><br>
-A staff-operated scheduling and registration system with conflict prevention,<br>
-real-time dashboards, and activity-based capacity management.
-
-<img src="./assets/hd-experience.svg" width="620" alt="experience"/>
-
-**Consultant** at iTeam<br>
-Former Team Lead, Web Section Leader, and R&amp;D Lead.
-
-**Web Development Manager** at Badir wa Sahim<br>
-Led web delivery and technical coordination for community-focused initiatives.
-
-**Co-Founder and Business Development Manager** at MentoraJo<br>
-Worked across product direction, partnerships, and business development.
-
-Former Web Section Co-Lead at TEDx PHU, Vice Chair of the IEEE Computer<br>
-Society, PR Officer and Backend Developer at TEDxDabouq, and PR Officer at ACM.
-
-<img src="./assets/hd-stats.svg" width="620" alt="stats"/>
-
-<div align="center">
-
-<img src="./assets/streak.svg" width="620" alt="Current and longest contribution streak"/>
-
-<img src="./assets/langs.svg" width="620" alt="Top languages by code size and repository count"/>
-
-<img src="./assets/year.svg" width="620" alt="Contribution activity over the last year"/>
-
-</div>
-
-<img src="./assets/hd-about-this-page.svg" width="620" alt="about this page"/>
-
-Every graphic on this page is generated inside this repository. The portrait<br>
-above is a photograph decoded and averaged into a grid of characters, where the<br>
-darker regions of the image become denser marks. The statistics come directly<br>
-from the GitHub GraphQL API through a scheduled GitHub Action, then the<br>
-resulting SVG files are committed back to the profile once per day.
-
-Nothing loads from a third-party statistics service, so the profile does not<br>
-depend on someone else's API limits or uptime. The generators are written in<br>
-TypeScript and the visual system is defined in [`scripts/config.ts`](scripts/config.ts).
-
-GitHub strips scripts and most custom styling from profile READMEs. Generating<br>
-local SVG files provides a consistent visual identity while keeping the page<br>
-fast, inspectable, and fully owned.
+You can explore my work here on [GitHub](https://github.com/mohasallal), learn more through my [portfolio](https://my-portfolio-nine-ruddy-81.vercel.app/), or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-alsallal/).
