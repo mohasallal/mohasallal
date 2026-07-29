@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="150" viewBox="0 0 620 150" role="img" aria-labelledby="title desc">
-  <title id="title">GitHub statistics</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="184" viewBox="0 0 620 184" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammad Alsallal GitHub statistics</title>
   <desc id="desc">Self-generated GitHub profile graphic for Mohammad Alsallal.</desc>
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
@@ -29,15 +29,31 @@
     </style>
   </defs>
   
-    
-  <rect x="1" y="1" width="618" height="148" rx="16" fill="url(#panel)" stroke="#352451" />
+      
+  <rect x="1" y="1" width="618" height="182" rx="16" fill="url(#panel)" stroke="#352451" />
   <rect x="20" y="0" width="96" height="2" rx="1" fill="url(#accent)" filter="url(#glow)" />
 
-    <text x="28" y="48" class="title">GITHUB STATISTICS</text>
-    <text x="28" y="82" fill="#c084fc" font-size="13">READY FOR LIVE DATA</text>
-    <text x="28" y="108" class="small">Run the Generate profile graphics workflow after pushing.</text>
-    <circle cx="574" cy="48" r="11" fill="none" stroke="#a855f7" stroke-width="3" stroke-dasharray="16 8">
-      <animateTransform attributeName="transform" type="rotate" from="0 574 48" to="360 574 48" dur="2.5s" repeatCount="indefinite" />
-    </circle>
+      <text x="26" y="36" class="title">THE LAST 365 DAYS</text>
+      <text x="594" y="35" text-anchor="end" class="label">@mohasallal</text>
+      
+  <text x="28" y="70" class="label">CONTRIBUTIONS</text>
+  <text x="28" y="101" class="value">697</text>
+  <text x="28" y="120" class="small">public + private count</text>
+
+      
+  <text x="182" y="70" class="label">COMMITS</text>
+  <text x="182" y="101" class="value">683</text>
   
+
+      
+  <text x="310" y="70" class="label">PULL REQUESTS</text>
+  <text x="310" y="101" class="value">5</text>
+  
+
+      
+  <text x="466" y="70" class="label">REPOSITORIES</text>
+  <text x="466" y="101" class="value">40</text>
+  <text x="466" y="120" class="small">2 stars · 0 forks</text>
+
+    
 </svg>
